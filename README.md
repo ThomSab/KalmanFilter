@@ -2,7 +2,7 @@
 
 
 ## KalmanFilter
-Custom implementation of the Kalman-Bucy-Filter as a part of my Bachelor Thesis
+Custom implementation of the Kalman-Bucy-Filter as a part of my Bachelor Thesis.
 Description are passages taken directly from the thesis:
 
 ## Thesis
