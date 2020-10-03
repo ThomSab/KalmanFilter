@@ -7,9 +7,10 @@ Description are passages taken directly from the thesis:
 
 ## Thesis
 
-The Title of the thesis was "Using Consumer Data to determine the Time-Varying Degree of Inflation Expectation Anchoring".
-I summary, the point of the thesis was to investigate US consumer data between 2004 and 2014 for periods of de-anchoring from the inflation target given by the central bank.
-This repo is although only here for displaying the code itself.
+The Title of the thesis was "Using Consumer Data to determine the Time-Varying Degree of Inflation Expectation Anchoring" commited to the chair of Econometrics of the Freie Universitaet Berlin.
+In summary, the point of the thesis was to investigate US consumer data between 2004 and 2014 for periods of de-anchoring from the inflation target given by the central bank.
+This repositorys sole purpose is although displaying the code itself so the description of the thesis will be brief.
+Feel free to contact me for open questions.
 
 ## Data 
 
