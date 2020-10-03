@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/64082072/94999923-0c678200-05bd-11eb-90ad-8a73a6f6aa25.jpeg" width="287" height="446" alt="Rudolf Emil Kálmán">
+
+
 ## KalmanFilter
 Custom implementation of the Kalman-Bucy-Filter as a part of my Bachelor Thesis
 Description are passages taken directly from the thesis:
