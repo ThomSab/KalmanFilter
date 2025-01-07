@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/64082072/94999923-0c678200-05bd-11eb-90ad-8a73a6f6aa25.jpeg" width="287" height="446" alt="Rudolf Emil Kálmán">
+
+
+
 
 
 ## KalmanFilter
@@ -36,4 +38,19 @@ For more details on the  estimation itself see Hamilton (1994).
 
 ## Results
 
+As mentioned, results on whether there was a significant period of de-anchoring of inflation expectation from the central bank's inflation target during the investigated period were inconclusive.
+Fortunately the lack of clear results cannot be attributed to the algorithm or model, both of which functioned as intended.
+The image below shows the estimated level of inflation expectation compared to the inflation target in the time between 2004 and 2014.
+
+<img src="https://private-user-images.githubusercontent.com/64082072/400851416-2a5230bf-f2b5-4347-84e6-05ed288f4a66.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNjkwMTMsIm5iZiI6MTczNjI2ODcxMywicGF0aCI6Ii82NDA4MjA3Mi80MDA4NTE0MTYtMmE1MjMwYmYtZjJiNS00MzQ3LTg0ZTYtMDVlZDI4OGY0YTY2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA3VDE2NTE1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1ZDQ1MDg4ZGM0NDA1NWZkMGZlZThjZjJiMDE4MTJkMmQwMTJmZTdhNzdjZWQ5NTVkYzM2OWYzMTU3MTliNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RAjRgEi3aQZFl7KmMAgvxiPSPxsPMLabeOyHRBLD9wU" width="800" >
+
+
+## Kálmán Portrait
+
+I like to draw in my free time so I sketched Kálmán during the time of writing the thesis.
+
+<figure class="image"> 
+  <img src="https://user-images.githubusercontent.com/64082072/94999923-0c678200-05bd-11eb-90ad-8a73a6f6aa25.jpeg" width="287" height="446" alt="Rudolf Emil Kálmán" description="Rudolf Emil Kálmán">
+  <figcaption>Rudolf Emil Kálmán</figcaption>
+</figure>
 
