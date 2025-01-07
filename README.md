@@ -4,8 +4,8 @@
 
 
 ## KalmanFilter
-Custom implementation of the Kalman-Bucy-Filter as a part of my Bachelor Thesis.
-Description are passages taken directly from the thesis:
+Custom implementation of the Kalman-Bucy-Filter as a part of my Bachelor Thesis at Freie Universität Berlin.
+The thesis and implementation are briefly summarized below:
 
 ## Thesis
 
